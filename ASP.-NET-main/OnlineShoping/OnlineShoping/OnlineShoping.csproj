@@ -1621,6 +1621,9 @@
     <Content Include="Images\img1.png" />
     <Content Include="Images\img2.jpg" />
     <Content Include="Images\img3.jpeg" />
+    <Content Include="Productimg\img1.png" />
+    <Content Include="Productimg\img2.jpg" />
+    <Content Include="Productimg\img3.jpeg" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="Admin\scss\sb-admin.scss" />
@@ -1733,7 +1736,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="Productimg\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff2" />
