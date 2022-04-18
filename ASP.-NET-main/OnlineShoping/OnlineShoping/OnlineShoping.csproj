@@ -1618,11 +1618,9 @@
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Content\Site.css" />
     <Content Include="Global.asax" />
-    <Content Include="Images\Black-Apple-logo-on-dark-gray-background.jpg" />
-    <Content Include="Images\icons8-google-web-search-32 %281%29.png" />
-    <Content Include="Images\LG-logo-411x188.jpg" />
-    <Content Include="Images\milogo.png" />
-    <Content Include="Images\xiaomi-mi-tv-5-pro-5.jpg" />
+    <Content Include="Images\img1.png" />
+    <Content Include="Images\img2.jpg" />
+    <Content Include="Images\img3.jpeg" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="Admin\scss\sb-admin.scss" />
