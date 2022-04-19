@@ -1606,12 +1606,10 @@
     <Content Include="Content\MyMainLayout.css" />
     <Content Include="DAL\Model1.Context.tt">
       <Generator>TextTemplatingFileGenerator</Generator>
-      <DependentUpon>Model1.edmx</DependentUpon>
       <LastGenOutput>Model1.Context.cs</LastGenOutput>
     </Content>
     <Content Include="DAL\Model1.tt">
       <Generator>TextTemplatingFileGenerator</Generator>
-      <DependentUpon>Model1.edmx</DependentUpon>
       <LastGenOutput>Model1.cs</LastGenOutput>
     </Content>
     <Content Include="favicon.ico" />
@@ -1621,9 +1619,9 @@
     <Content Include="Images\img1.png" />
     <Content Include="Images\img2.jpg" />
     <Content Include="Images\img3.jpeg" />
-    <Content Include="Productimg\img1.png" />
-    <Content Include="Productimg\img2.jpg" />
-    <Content Include="Productimg\img3.jpeg" />
+    <Content Include="Glasses\img1.png" />
+    <Content Include="Glasses\img2.jpg" />
+    <Content Include="Glasses\img3.jpeg" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="Admin\scss\sb-admin.scss" />
